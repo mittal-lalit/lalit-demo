@@ -1,4 +1,4 @@
 # lalit-demo
 This is my second git Repository.
 <br>
-AUTHOR = LALIT MITTAL
+AUTHOR = LALIT MITTAL (balaji)
